@@ -1,0 +1,2 @@
+# springbootrabbitmqsample
+Rabbit MQ example
